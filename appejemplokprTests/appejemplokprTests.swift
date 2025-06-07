@@ -6,11 +6,27 @@
 //
 
 import Testing
+@testable import appejemplokpr
 
+extension Tag {
+    @Tag static var repository: Self
+}
+
+@Suite("Prueba repository star Card",.tags(.repository))
 struct appejemplokprTests {
-
-    @Test func example() async throws {
-        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    let repository = RepositoryTest()
+    let viewModel = StarCardVM(repository: RepositoryTest())
+    
+    @Test("Pruebada de carga de datos")
+    func dataLoad() throws {
+        let data = try repository.getData()
+        
+        #expect(data.count>0)
+    }
+    
+    @Test("prueba da carga de datos en viewModel")
+    func viewModelLoad() throws {
+        #expect(viewModel.cards.count>0)
     }
 
 }
