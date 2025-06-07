@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Luke Skywalker",
+    "raza": "Humano",
+    "descripcion": "Héroe de la Alianza Rebelde y Caballero Jedi. Hijo de Anakin Skywalker y Padmé Amidala.",
+    "planeta_origen": "Tatooine",
+    "epoca": "Era del Imperio Galáctico",
+    "afiliacion": "Alianza Rebelde, Nueva República",
+    "habilidades": "Uso de la Fuerza, combate con sable de luz, pilotaje",
+    "armas": "Sable de luz",
+    "id": 6629,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Darth Vader",
+    "raza": "Humano",
+    "descripcion": "Anteriormente conocido como Anakin Skywalker, un Caballero Jedi que se convirtió al lado oscuro y se convirtió en Lord Sith.",
+    "planeta_origen": "Tatooine",
+    "epoca": "Era del Imperio Galáctico",
+    "afiliacion": "Sith, Imperio Galáctico",
+    "habilidades": "Uso del lado oscuro de la Fuerza, combate con sable de luz",
+    "armas": "Sable de luz rojo",
+    "id": 9270,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Yoda",
+    "raza": "Desconocida",
+    "descripcion": "Uno de los más grandes y poderosos Maestros Jedi, conocido por su sabiduría y habilidades en la Fuerza.",
+    "planeta_origen": "Desconocido",
+    "epoca": "Era de la Alta República, Era del Imperio Galáctico",
+    "afiliacion": "Jedi",
+    "habilidades": "Uso de la Fuerza, combate con sable de luz, enseñanza",
+    "armas": "Sable de luz verde",
+    "id": 2945,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Leia Organa",
+    "raza": "Humano",
+    "descripcion": "Princesa de Alderaan, líder de la Alianza Rebelde y hermana gemela de Luke Skywalker.",
+    "planeta_origen": "Alderaan",
+    "epoca": "Era del Imperio Galáctico",
+    "afiliacion": "Alianza Rebelde, Nueva República",
+    "habilidades": "Liderazgo, diplomacia",
+    "armas": "Blaster",
+    "id": 5545,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Obi-Wan Kenobi",
+    "raza": "Humano",
+    "descripcion": "Caballero Jedi que sirvió a la República Galáctica durante sus últimos días y entrenó a Anakin Skywalker.",
+    "planeta_origen": "Stewjon",
+    "epoca": "Era de la República Galáctica, Era del Imperio Galáctico",
+    "afiliacion": "Jedi",
+    "habilidades": "Uso de la Fuerza, combate con sable de luz",
+    "armas": "Sable de luz azul",
+    "id": 7097,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Chewbacca",
+    "raza": "Wookiee",
+    "descripcion": "Guerrero wookiee y copiloto del Halcón Milenario. Mejor amigo de Han Solo.",
+    "planeta_origen": "Kashyyyk",
+    "epoca": "Era del Imperio Galáctico, Era de la Nueva República",
+    "afiliacion": "Alianza Rebelde, Nueva República",
+    "habilidades": "Combate cuerpo a cuerpo, mecánica, pilotaje",
+    "armas": "Ballesta láser",
+    "id": 4725,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Ahsoka Tano",
+    "raza": "Togruta",
+    "descripcion": "Antigua aprendiz de Anakin Skywalker que dejó la Orden Jedi y luego ayudó a la Rebelión.",
+    "planeta_origen": "Shili",
+    "epoca": "Era del Imperio Galáctico, Era de la Nueva República",
+    "afiliacion": "Independiente, Alianza Rebelde",
+    "habilidades": "Uso de la Fuerza, combate con sable de luz",
+    "armas": "Sables de luz blancos",
+    "id": 1130,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Han Solo",
+    "raza": "Humano",
+    "descripcion": "Contrabandista convertido en héroe de la Alianza Rebelde, famoso por pilotar el Halcón Milenario.",
+    "planeta_origen": "Corellia",
+    "epoca": "Era del Imperio Galáctico, Era de la Nueva República",
+    "afiliacion": "Alianza Rebelde, Nueva República",
+    "habilidades": "Pilotaje, combate con blaster",
+    "armas": "Blaster DL-44",
+    "id": 9438,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Rey",
+    "raza": "Humano",
+    "descripcion": "Jedi autodidacta que desempeña un papel crucial en la resistencia contra la Primera Orden.",
+    "planeta_origen": "Jakku",
+    "epoca": "Era de la Primera Orden",
+    "afiliacion": "Resistencia, Jedi",
+    "habilidades": "Uso de la Fuerza, combate con sable de luz",
+    "armas": "Sable de luz",
+    "id": 4212,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  },
+  {
+    "nombre": "Emperador Palpatine",
+    "raza": "Humano",
+    "descripcion": "Señor Oscuro de los Sith que manipuló a la galaxia para convertirse en el Emperador del Imperio Galáctico.",
+    "planeta_origen": "Naboo",
+    "epoca": "Era de la República Galáctica, Era del Imperio Galáctico",
+    "afiliacion": "Sith, Imperio Galáctico",
+    "habilidades": "Dominio del lado oscuro de la Fuerza, manipulación política",
+    "armas": "Rayos de la Fuerza",
+    "id": 3983,
+    "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+  }
+]

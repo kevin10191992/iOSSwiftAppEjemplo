@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Luke Skywalker",
+        "raza": "Humano",
+        "descripcion": "Héroe de la Alianza Rebelde y Caballero Jedi. Hijo de Anakin Skywalker y Padmé Amidala.",
+        "planeta_origen": "Tatooine",
+        "epoca": "Era del Imperio Galáctico",
+        "afiliacion": "Alianza Rebelde, Nueva República",
+        "habilidades": "Uso de la Fuerza, combate con sable de luz, pilotaje",
+        "armas": "Sable de luz",
+        "id": 6629,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+    },
+    {
+        "nombre": "Darth Vader",
+        "raza": "Humano",
+        "descripcion": "Anteriormente conocido como Anakin Skywalker, un Caballero Jedi que se convirtió al lado oscuro y se convirtió en Lord Sith.",
+        "planeta_origen": "Tatooine",
+        "epoca": "Era del Imperio Galáctico",
+        "afiliacion": "Sith, Imperio Galáctico",
+        "habilidades": "Uso del lado oscuro de la Fuerza, combate con sable de luz",
+        "armas": "Sable de luz rojo",
+        "id": 9270,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+    },
+    {
+        "nombre": "Yoda",
+        "raza": "Desconocida",
+        "descripcion": "Uno de los más grandes y poderosos Maestros Jedi, conocido por su sabiduría y habilidades en la Fuerza.",
+        "planeta_origen": "Desconocido",
+        "epoca": "Era de la Alta República, Era del Imperio Galáctico",
+        "afiliacion": "Jedi",
+        "habilidades": "Uso de la Fuerza, combate con sable de luz, enseñanza",
+        "armas": "Sable de luz verde",
+        "id": 2945,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+    },
+    {
+        "nombre": "Leia Organa",
+        "raza": "Humano",
+        "descripcion": "Princesa de Alderaan, líder de la Alianza Rebelde y hermana gemela de Luke Skywalker.",
+        "planeta_origen": "Alderaan",
+        "epoca": "Era del Imperio Galáctico",
+        "afiliacion": "Alianza Rebelde, Nueva República",
+        "habilidades": "Liderazgo, diplomacia",
+        "armas": "Blaster",
+        "id": 5545,
+        "imagen": "https://random-image-pepebigotes.vercel.app/api/random-image"
+    }
+]
